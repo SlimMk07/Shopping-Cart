@@ -1,0 +1,98 @@
+.background{
+    background-image:url(louis.jpg);
+    height: 61rem;
+    font-size: 150%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.pr{
+    font-size: 100%;
+    color: brown
+}
+.box{
+    background-image: linear-gradient(to right bottom, #955720, #9a652c, #9f733a, #a58148, #aa8e58);
+    border-radius: 2%;
+    width: 60%;
+
+
+}
+.box img{
+    width: 15%;
+    height: 9rem;
+    display: flex;
+    align-items: center;
+
+}
+span{
+    color: black
+}
+.part{
+    height: 10rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.part1{
+    
+    display: flex;
+    padding-left: 3rem;
+    padding-top: 1.5rem;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 35%;
+    color: brown;
+}   
+button{
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid aliceblue;
+    border-radius: 10%;
+    background-color: aliceblue;
+    color: grey;
+    font-size: 1.5rem;
+}
+.bots{
+    display: flex;
+    justify-content: space-around;
+    width: 12%;
+    align-items: center;
+}
+.logs{
+    display: flex;
+    justify-content: space-around;
+    width: 8%;
+    align-items: center;
+}
+a{
+    color:black
+}
+.prix {
+    color: brown;
+}
+#price1{
+    color:brown;
+}
+#price2{
+    color:brown;
+}
+#price3{
+    color:brown;
+}
+#the-total{
+    color: brown;
+}
+.buy{
+    width: 100%;
+    color: goldenrod
+}
+.the-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 3rem;
+    margin-top: 1rem;
+
+}
